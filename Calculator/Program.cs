@@ -11,15 +11,19 @@ double secondNumber = double.Parse(Console.ReadLine());
 double result = 0;
 switch (action)
 {
-    case '+':
+    case 'a':
+    case '+': //if action == '+'
         result = firstNumber + secondNumber;
         break;
-    case '-':
+    case 's':
+    case '-': //if action == '-'
         result = firstNumber - secondNumber;
         break;
+    case 'm':
     case '*':
         result = firstNumber * secondNumber;
         break;
+    case 'd':
     case '/':
         if (secondNumber == 0)
         {
@@ -57,10 +61,11 @@ switch (action)
 //    Console.WriteLine("You entered incorrect action");
 //}
 
-bool isActionCorrect = action == '+' || action == '-' || action == '*' || action == '/';
+bool isActionCorrect = action == '+' || action == 'a' || action == '-' || 
+    action == 's' || action == '*' || action == 'm' || action == '/' || action == 'd';
 if (result != double.PositiveInfinity && isActionCorrect)
 {
-    Console.WriteLine($"{firstNumber} {action} {secondNumber} = {result}");
+    Console.WriteLine($"Result = ({firstNumber} {action} {secondNumber}) = {result}");
 }
 else
 {
