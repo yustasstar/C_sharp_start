@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Enter first number:");
 double firstNumber = double.Parse(Console.ReadLine());
 
@@ -9,27 +9,56 @@ Console.WriteLine("Enter first number:");
 double secondNumber = double.Parse(Console.ReadLine());
 
 double result = 0;
-if (action == '+')
+switch (action)
 {
-    result = firstNumber + secondNumber;
+    case '+':
+        result = firstNumber + secondNumber;
+        break;
+    case '-':
+        result = firstNumber - secondNumber;
+        break;
+    case '*':
+        result = firstNumber * secondNumber;
+        break;
+    case '/':
+        if (secondNumber == 0)
+        {
+            Console.WriteLine("Warning: You can not divide by zero!");
+        }
+        result = firstNumber / secondNumber;
+        break;
+    default:
+        Console.WriteLine("You entered incorrect action");
+        break;
 }
-else if (action == '-')
-{
-    result = firstNumber - secondNumber;
-}
-else if (action == '*')
-{
-    result = firstNumber * secondNumber;
-}
-else if (action == '/')
-{
-    if (secondNumber == 0)
-    {
-        Console.WriteLine("Warning: You can not divide by zero!");
-    }
-    result = firstNumber / secondNumber;
-}
-if (result != double.PositiveInfinity)
+
+//if (action == '+')
+//{
+//    result = firstNumber + secondNumber;
+//}
+//else if (action == '-')
+//{
+//    result = firstNumber - secondNumber;
+//}
+//else if (action == '*')
+//{
+//    result = firstNumber * secondNumber;
+//}
+//else if (action == '/')
+//{
+//    if (secondNumber == 0)
+//    {
+//        Console.WriteLine("Warning: You can not divide by zero!");
+//    }
+//    result = firstNumber / secondNumber;
+//}
+//else
+//{
+//    Console.WriteLine("You entered incorrect action");
+//}
+
+bool isActionCorrect = action == '+' || action == '-' || action == '*' || action == '/';
+if (result != double.PositiveInfinity && isActionCorrect)
 {
     Console.WriteLine($"{firstNumber} {action} {secondNumber} = {result}");
 }
