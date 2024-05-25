@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Calculator"
   ],
-  "SelectedNode": "\\C:\\Users\\Stella\\Source\\Repos\\MyFirstCalculator",
+  "SelectedNode": "\\Calculator\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
