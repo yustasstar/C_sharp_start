@@ -29,6 +29,13 @@ else if (action == '/')
     }
     result = firstNumber / secondNumber;
 }
+if (result != double.PositiveInfinity)
+{
+    Console.WriteLine($"{firstNumber} {action} {secondNumber} = {result}");
+}
+else
+{
+    Console.WriteLine("Something went wrong!");
+}
 
-Console.WriteLine($"{firstNumber} {action} {secondNumber} = {result}");
 Console.ReadKey();
