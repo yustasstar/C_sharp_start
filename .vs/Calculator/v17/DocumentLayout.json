@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1A7F8B8B-4EA0-4C5F-880E-2A3F9914FFCA}|Calculator\\Calculator.csproj|c:\\users\\yusta\\source\\repos\\c_sharp_start\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A7F8B8B-4EA0-4C5F-880E-2A3F9914FFCA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7F8B8B-4EA0-4C5F-880E-2A3F9914FFCA}|Calculator\\Calculator.csproj|c:\\users\\yusta\\source\\repos\\c_sharp_start\\calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1A7F8B8B-4EA0-4C5F-880E-2A3F9914FFCA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -88,22 +84,10 @@
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
               "ToolTip": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T19:30:42.56Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculator.csproj",
-              "DocumentMoniker": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
-              "RelativeDocumentMoniker": "Calculator\\Calculator.csproj",
-              "ToolTip": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
-              "RelativeToolTip": "Calculator\\Calculator.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-25T19:30:38.323Z"
             }
           ]
         },
