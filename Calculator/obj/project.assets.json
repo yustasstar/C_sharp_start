@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\yusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
