@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{469E404B-7F4A-45CC-957B-9E83C8E76F1A}|HW#6_Array\\HW#6_Array.csproj|c:\\users\\yusta\\source\\repos\\c_sharp_start\\hw#6_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{469E404B-7F4A-45CC-957B-9E83C8E76F1A}|HW#6_Array\\HW#6_Array.csproj|solutionrelative:hw#6_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7F8B8B-4EA0-4C5F-880E-2A3F9914FFCA}|Calculator\\Calculator.csproj|c:\\users\\yusta\\source\\repos\\c_sharp_start\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7F8B8B-4EA0-4C5F-880E-2A3F9914FFCA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,6 +101,18 @@
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -112,22 +120,10 @@
               "RelativeDocumentMoniker": "HW#6_Array\\Program.cs",
               "ToolTip": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\Program.cs",
               "RelativeToolTip": "HW#6_Array\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T17:40:20.293Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Program.cs",
-              "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T19:30:42.56Z"
             }
           ]
         },
