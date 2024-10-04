@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj",
+        "projectName": "HW#6_Array",
+        "projectPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj",
         "packagesPath": "C:\\Users\\yusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
