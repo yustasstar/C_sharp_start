@@ -1,0 +1,15 @@
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\bin\Debug\net8.0\HW#6_Array.exe
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\bin\Debug\net8.0\HW#6_Array.deps.json
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\bin\Debug\net8.0\HW#6_Array.runtimeconfig.json
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\bin\Debug\net8.0\HW#6_Array.dll
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\bin\Debug\net8.0\HW#6_Array.pdb
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.AssemblyInfoInputs.cache
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.AssemblyInfo.cs
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.csproj.CoreCompileInputs.cache
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.sourcelink.json
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.dll
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\refint\HW#6_Array.dll
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.pdb
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\HW#6_Array.genruntimeconfig.cache
+C:\Users\yusta\source\repos\C_sharp_start\HW#6_Array\obj\Debug\net8.0\ref\HW#6_Array.dll
