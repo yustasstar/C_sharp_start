@@ -17,7 +17,7 @@
       "projectName": "Calculator",
       "projectPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\yusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
