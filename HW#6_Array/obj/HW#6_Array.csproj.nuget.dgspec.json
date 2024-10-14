@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj": {}
+    "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj": {
+    "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj",
+        "projectUniqueName": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj",
         "projectName": "HW#6_Array",
-        "projectPath": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj",
+        "projectPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\HW#6_Array.csproj",
         "packagesPath": "C:\\Users\\yusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yusta\\Source\\Repos\\C_sharp_start\\HW#6_Array\\obj\\",
+        "outputPath": "C:\\Users\\yusta\\source\\repos\\C_sharp_start\\HW#6_Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
